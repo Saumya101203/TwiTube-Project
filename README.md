@@ -34,7 +34,7 @@ Twitube is a full-stack, subscription-based video sharing platform developed usi
 ![Video Playing](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/video-playing.jpg)
 
 ### Account Page
-![Account Page](http://github.com/Saumya101203/TwiTube/blob/main/Pictures/account-page.jpg)
+![Account Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/account-page.jpg)
 
 ### Subscriptions Tab
 ![Subscriptions Tab](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/subscription-tab.png)
