@@ -16,7 +16,7 @@ Twitube is a full-stack, subscription-based video sharing platform developed usi
 - **Other**: CORS, Proxy for frontend-backend communication
 
 ## Demo Video 
-[![TwiTube Demo](https://youtu.be/9KGMcUnT0kg/0.jpg)](https://youtu.be/9KGMcUnT0kg)
+[![TwiTube Demo](https://img.youtube.com/vi/9KGMcUnT0kg/0.jpg)](https://youtu.be/9KGMcUnT0kg)
 
 ## Contributions
 Contributions are welcome! If you want to contribute to the development of Twitube, feel free to fork the repository and submit a pull request.
