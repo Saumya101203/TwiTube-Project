@@ -12,9 +12,8 @@ Twitube is a full-stack, subscription-based video sharing platform developed usi
 ## Tech Stack
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Mongoose
+- **Database**: MongoDB, Mongoose, Cloudinary(for videos and file storing)
 - **Other**: CORS, Proxy for frontend-backend communication
-
 
 ## Contributions
 Contributions are welcome! If you want to contribute to the development of Twitube, feel free to fork the repository and submit a pull request.
